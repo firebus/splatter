@@ -1,0 +1,6 @@
+[splatter]
+instance_server = cs1
+client_id = client_id
+client_secret = client_secret
+username = test@example.com
+password = changeme
